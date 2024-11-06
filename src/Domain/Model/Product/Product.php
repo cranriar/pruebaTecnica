@@ -1,7 +1,9 @@
 <?php
 
+namespace Src/
 
-php id = $id;
+public funcrion __contructor()
+$this->id = $id;
 $this->nombre = $nombre; 
 $this->precio = $precio;
 $this->descripcion = $descripcion;
